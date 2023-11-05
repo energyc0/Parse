@@ -1,1 +1,1 @@
-# this program like calculator
+# C++ parser
